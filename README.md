@@ -1,5 +1,5 @@
 # ALIENS.HaCK.Camera
- داة صنع رابط فضائي لي تصوير ضحية فقط بارسال له رابط لخبيت 
+  رابط فضائي لي تصوير ضحية فقط بارسال له رابط لخبيت 
  
 
 اخي اداة تطور عربي ؟ تعرف انت جيد في لعربية
@@ -13,7 +13,7 @@ pkg install bash
 
 انت لان تبت لازم تبت لاداة 
 
-git clone https://github.com/hackermohamedPro/ALIENS.HaCK.Camera
+git clone https://github.com/hackersalem/ALIENS.HaCK.Camera
 
 
 جيد ادخل للاداة 
